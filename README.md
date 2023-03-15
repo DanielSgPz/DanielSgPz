@@ -6,11 +6,11 @@ Además de mi enfoque en **JavaScript**, también tengo habilidades en **HTML, C
 
 # 💻Skills
 ***
-[x] [HTML]
-[x] CSS
-[x] PHP 
-[x] MYSQL 
-[X] LARAVEL 
+✅ [HTML]
+✅ CSS
+✅ PHP 
+✅ MYSQL 
+✅ LARAVEL 
 
 # 📜 Comandos Terminal
 | Comando   | Descripción |
