@@ -12,22 +12,6 @@ Además de mi enfoque en **JavaScript**, también tengo habilidades en **HTML, C
 ✅ MYSQL 
 ✅ LARAVEL 
 
-# 📜 Comandos Terminal
-| Comando   | Descripción |
-|-----------|-------------|
-| ls        |Lista los directorios en la ubicacion actual |
-| cd        |Permite moverse entre directorios  |
-| mv        |Permite mover archivos|
-| cp        |Copiar archivo |
-| pwd       |Muestra la ruta del directorio |
-| touch     |Crear archivos |
-| mkdir     |Crea carpetas  |
-
-# 📎 Comandos Alias
-Se usan como un acceso directo para ahorrar tiempo en la ejecución de comandos.
-Para crearlos basta con agregar la palabra ``alias`` segido del nombre que se desea para reemplazar el comando, luego ``=`` por ultimo el comando que se desea ejecutar.
-**Ejemplo:**
-``alias f5 ="sudo apt update && sudo apt dist-upgrade -y"``
 
 <!--
 **DanielSgPz/DanielSgPz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
